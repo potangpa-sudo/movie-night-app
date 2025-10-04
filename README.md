@@ -186,12 +186,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [React](https://reactjs.org/) for the amazing frontend framework
 - [Flask](https://flask.palletsprojects.com/) for the lightweight backend framework
 
-## 📧 Contact
-
-Your Name - [@yourusername](https://twitter.com/yourusername) - email@example.com
-
-Project Link: [https://github.com/yourusername/movie-night-app](https://github.com/yourusername/movie-night-app)
-
----
 
 ⭐ **Star this repo if you found it helpful!**
